@@ -20,7 +20,7 @@ Konva.document = Konva.window.document;
 Konva.window.Image = Canvas.Image;
 
 Konva.Util.createCanvasElement = () => {
-  return new Canvas();
+  return new Canvas.Canvas();
 };
 
 module.exports = Konva;
