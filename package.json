@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.5.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "konva": "^3.3.2"
   }
 }
